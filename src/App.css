@@ -1,0 +1,143 @@
+
+#button{
+    
+  width: 180px;
+  height: 65px;
+  border-radius: 5px;
+  border: 0.5px solid white;
+  background-color: rgb(41, 63, 80);
+  color: white;
+  font-weight: 500;
+}
+#button:hover{
+  background-color: white;
+  color: #648880;
+}
+#navbar {
+ 
+  background-color: rgb(41, 63, 80);
+  height: 75vh;
+}
+.bar{
+  background-color: rgb(41, 63, 80);
+  height: 30vh;
+  
+}
+.date{
+  color: #648880;
+}
+
+li{
+  font-weight: 400;
+  
+
+}
+.items{
+color: white;
+
+}
+.items:hover{
+color: #648880;
+}
+
+#ttf{  
+  margin-left: 100px;
+  font-size: 50px;
+  font-weight: 100;
+  font-family: Roboto,sans-serif;
+  color: white;
+  position: absolute;
+  top: 50px;
+}
+#ttf:hover{
+  color: #648880;
+}
+.car{
+  color: #a9b2b9;
+}
+.t{
+  color: #648880;
+}
+.p{
+  color:   #888;
+}
+.footer{
+  background-color: rgb(41, 63, 80);
+
+}
+.fu{
+  color: #648880;
+}
+.speaker{
+  background: #cbe2c1;
+  background: -webkit-linear-gradient(to right, #a1d3b0, #f6f1d3);
+  background: -moz-linear-gradient(to right, #a1d3b0, #f6f1d3);
+  background: linear-gradient(to right, #a1d3b0, #f6f1d3);
+}
+.sh{
+  color: #648880;
+}
+.sp{
+  color:#888;
+}
+.r{
+  color: #648880;
+}
+.l{
+  color: #888;
+}
+.hh1{
+  color: #648880;
+}
+.hh2{
+  color: #a9b2b9;
+}
+.hh3{
+  color:   #888;
+}
+.purchase{
+  
+      width:150px;
+      height: 30px;
+      padding: 23px;
+      line-height: 3px;
+      background-color: #648880;
+      color: white;
+      font-weight: 500;
+      border-radius: 5px;
+      border-color: white;
+  
+}
+.purchase:hover{
+  background-color:whitesmoke;
+  color: #648880;
+}
+label{
+  color: #648880;
+}
+input{
+  color: #888;
+}
+.v{
+  color: #648880;
+  
+}
+.m{
+  color: #888;   
+}
+.map{
+  color: #888;
+}
+.w{
+  color: #648880;
+}
+.f{
+  color: #888;
+}
+.f:hover{
+  color: #a9b2b9;
+}
+.i{
+  color: #a9b2b9;
+
+}
